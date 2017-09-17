@@ -1,0 +1,29 @@
+p {
+    font-family:Courier
+}
+
+body {
+    background-color:grey
+}
+
+.eureka {
+    height:400px; width:400px;text-align:right;
+}
+
+#head {
+    text-align:center;
+    background-color:darkgrey;
+    margin:none
+}
+
+
+a{
+    text-decoration:none; 
+    color:blue
+}
+a:hover {
+    color:green;
+}
+a:visited {
+    color:purple;
+}
